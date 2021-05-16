@@ -40,7 +40,7 @@
 - [MagiskBoot] Fix bug when unpacking `lz4_lg` compressed boot images
 - [MagiskInit] Support Galaxy S21 series
 - [MagiskSU] Fix incorrect APEX paths that caused `libsqlite.so` fail to load
-
+J
 ### v21.4
 
 - [MagiskSU] Fix `su -c` behavior that broke many root apps
